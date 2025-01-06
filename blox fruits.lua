@@ -1,4 +1,4 @@
-script_key = "script_key = "MbRqEAnEvoDyFjaKNusOzZcDCTkIlZDY"
+script_key = "MbRqEAnEvoDyFjaKNusOzZcDCTkIlZDY"
 getgenv().SetFpsCap = false
 getgenv().FpsCap = 10
 getgenv().OneClickUi = true -- Only Open Necessacry Ui For One Click
